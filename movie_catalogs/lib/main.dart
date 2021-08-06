@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:movie_catalogs/components/main_theme.dart';
 import 'package:movie_catalogs/screens/movie_dashboard.dart';
 
 void main() {
