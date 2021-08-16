@@ -67,7 +67,7 @@ class _MovieCarouselState extends State<MovieCarousel> {
             }
 
             return AnimatedOpacity(
-                duration: Duration(milliseconds: 350),
+                duration: Duration(milliseconds: 150),
                 opacity: initialPage == index ? 1 : 0.4,
                 child: Transform.rotate(
                     angle: math.pi * value,
