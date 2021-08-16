@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:movie_catalogs/screens/home/components/movie_dashboard_body.dart';
+import 'package:movie_catalogs/screens/home/components/body.dart';
 import 'package:movie_catalogs/constants.dart';
 class MoviesDashboard extends StatelessWidget {
 
